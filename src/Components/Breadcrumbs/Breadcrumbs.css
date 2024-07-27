@@ -1,0 +1,11 @@
+.main-bread .main-breadcrumbs {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: black;
+    color: whitesmoke;
+    height: 9.5rem;
+    width: 100vw;
+    font-family: sans-serif;
+}
